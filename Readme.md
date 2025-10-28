@@ -1,6 +1,9 @@
+<img src = "https://github.com/jaiswal-saurabh87/Portfolio/blob/main/image.jpg" alt = "logo"></img>
+<h1 style="border-bottom: none;">👋 Heyy, I'm Saurabh !</h1>
 # 👋 Hi, I'm Saurabh !
 
 🚀 A passionate ***Frontend Developer, UI Designer and An Engineer-in-the-making*** from **Greater Noida, Uttar Pradesh - India**
+
 🎓 **Engineering Student | Tech Enthusiast | Builder of Ideas**
 
 🔧 I specialize in building modern web applications using the *MERN stack (MongoDB, Express.js, React, Node.js)* and have experience in deploying scalable APIs and frontend interfaces.
